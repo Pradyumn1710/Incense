@@ -28,9 +28,9 @@ const Navbar = () => {
 
   const navItems = [
     { name: "Home", to: "#" },
-    { name: "About", to: "#" },
-    { name: "Services", to: "#" },
-    { name: "Contact", to: "#" },
+    { name: "Simulator", to: "/Simulator" },
+    { name: "Model", to: "/Model" },
+    // { name: "Services", to: "/" },
   ]
 
   const navVariants = {
